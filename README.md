@@ -1,9 +1,9 @@
-# ReactHackerEffect
+# React Hacker Effect
 
 <!-- GIF AQUI -->
 ![Hacker Effect Gif](/hacker_effect.gif)
 
-Created with [Create React App](https://github.com/facebook/create-react-app).
+Created with [Create React App](https://github.com/facebook/create-react-app). Inspired by the [Hyperplexed video](https://www.youtube.com/watch?v=W5oawMJaXbU).
 
 ## Available Scripts
 
