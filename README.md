@@ -1,6 +1,9 @@
-# Getting Started with Create React App
+# ReactHackerEffect
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<!-- GIF AQUI -->
+![Hacker Effect Gif](/hacker_effect.gif)
+
+Created with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
